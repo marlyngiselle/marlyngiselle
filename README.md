@@ -15,7 +15,7 @@
 
 ## In numbers
 
-| 15+ | 14 | 7 | 4 |
+| 15+ | 20 | 7 | 4 |
 | :---: | :---: | :---: | :---: |
 | years in infrastructure and cloud | public platform repositories | core cloud and Kubernetes certifications | working languages |
 
@@ -81,6 +81,19 @@ flowchart LR
 | [slo-observability-kit](https://github.com/marlyngiselle/slo-observability-kit) | SLOs as code that generate multi-window burn-rate alerts, Grafana dashboards and error-budget policies | ![Prometheus](https://img.shields.io/badge/Prometheus-1d3f8a?style=flat-square&logo=prometheus&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-2456c8?style=flat-square&logo=opentelemetry&logoColor=white) |
 | [cloud-finops-toolkit](https://github.com/marlyngiselle/cloud-finops-toolkit) | A tested Python CLI that finds cloud waste: idle resources, tag gaps, rightsizing and shutdown schedules | ![Python](https://img.shields.io/badge/Python-4a86f0?style=flat-square&logo=python&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0b1f4d?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEzLjA1IDQuMjQgNi41NiAxOC4wNWw1LjAxLS4wMiAxLjAzLTIuMTloNC45bC0xLjYtMi44M2gtMi4wNGwyLjU1LTUuNTV6TTUuMiAxOS42SDFMOC42NSA0LjRoMy4zeiIvPjwvc3ZnPg%3D%3D&logoColor=white) |
 | [platform-ops-toolkit](https://github.com/marlyngiselle/platform-ops-toolkit) | Day-to-day operations in Bash and PowerShell, safe by default, tested and documented | ![Bash](https://img.shields.io/badge/Bash-14306b?style=flat-square&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-2456c8?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBkPSJNNSA2bDYgNi02IDZNMTMgMThoNyIvPjwvc3ZnPg%3D%3D&logoColor=white) |
+
+### Everyday automation on the Mac
+
+The same engineering standards, applied to the machine I work on every day.
+
+| Repository | What it shows | Stack |
+| --- | --- | --- |
+| [mac-setup-as-code](https://github.com/marlyngiselle/mac-setup-as-code) | A new Mac ready with one command: layered Homebrew profiles, declarative system settings and dotfiles, idempotent and proven in CI | ![Bash](https://img.shields.io/badge/Bash-14306b?style=flat-square&logo=gnubash&logoColor=white) ![Homebrew](https://img.shields.io/badge/Homebrew-2456c8?style=flat-square&logo=homebrew&logoColor=white) |
+| [homebrew-tools](https://github.com/marlyngiselle/homebrew-tools) | A personal Homebrew tap with three command-line tools, man pages, tag-driven releases and bottles built in CI | ![Homebrew](https://img.shields.io/badge/Homebrew-2456c8?style=flat-square&logo=homebrew&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-14306b?style=flat-square&logo=gnubash&logoColor=white) |
+| [launchd-automation-kit](https://github.com/marlyngiselle/launchd-automation-kit) | Scheduled automations done properly: a runner that locks, logs and alerts, with five ready jobs including encrypted backups | ![Apple](https://img.shields.io/badge/macOS-0b1f4d?style=flat-square&logo=apple&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-14306b?style=flat-square&logo=gnubash&logoColor=white) |
+| [macos-security-audit](https://github.com/marlyngiselle/macos-security-audit) | Read-only security audit for macOS with 35 checks, privacy-safe reports and SARIF output for code scanning | ![Apple](https://img.shields.io/badge/macOS-0b1f4d?style=flat-square&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/Python-4a86f0?style=flat-square&logo=python&logoColor=white) |
+| [apple-workflow-automation](https://github.com/marlyngiselle/apple-workflow-automation) | Calendar, Reminders and Notes working together: weekly review, meeting prep, inbox to reminders and a focus report | ![Apple](https://img.shields.io/badge/macOS-0b1f4d?style=flat-square&logo=apple&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-1d3f8a?style=flat-square&logo=javascript&logoColor=white) |
+| [photos-smart-organizer](https://github.com/marlyngiselle/photos-smart-organizer) | iPhone photos sorted into albums by place and date, with suggested favourites and a full undo | ![Apple](https://img.shields.io/badge/macOS-0b1f4d?style=flat-square&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/Python-4a86f0?style=flat-square&logo=python&logoColor=white) |
 
 ## Fifteen years, one direction
 
